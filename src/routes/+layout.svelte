@@ -7,7 +7,7 @@
         <!-- <p>Logo Here</p> -->
         <a href="/">
         <img
-            src="src/static/assets/svault-logo-trim.png"
+            src="./assets/svault-logo-trim.png"
             alt=""
             class="logohome"
         />
