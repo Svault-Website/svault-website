@@ -3,7 +3,7 @@
 <body>
   <div class="main-container">
     <div class="left-container">
-      <img src="src/static/assets/form-demo.png" alt="" />
+      <img src="./assets/form-demo.png" alt="" />
       <!-- <div class="auth-splash">
         <div class="native-container">
           <div class="input-container">
@@ -212,8 +212,7 @@
       flex-direction: column; /* Set the flex-direction to column for smaller screens */
       margin-bottom: 50%;
     }
-    .cardcontainer{
-
+    .cardcontainer {
     }
   }
 </style>
