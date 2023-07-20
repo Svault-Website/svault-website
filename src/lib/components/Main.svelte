@@ -24,11 +24,7 @@
     </div>
     <div class="right-container">
       <div class="content">
-        <img
-          class="logobody"
-          src="./assets/svault-logo-trim.png"
-          alt=""
-        />
+        <img class="logobody" src="./assets/svault-logo-trim.png" alt="" />
         <h1>Authentication for SvelteKit</h1>
         <!-- <br> -->
         <h3>
@@ -46,11 +42,7 @@
         <img class="profile" src="./assets/dp.jpeg" alt="" />
         <h2>Daniel Park</h2>
         <a href="https://github.com/parkdaniel731">
-          <img
-            class="teamlogo"
-            src="./assets/github-mark-white.png"
-            alt=""
-          />
+          <img class="teamlogo" src="./assets/github-mark-white.png" alt="" />
         </a>
         <a href="https://www.linkedin.com/in/danielpark137/">
           <img class="teamlogo" src="./assets/linkedin.svg" alt="" />
@@ -60,11 +52,7 @@
         <img class="profile" src="./assets/fb.jpg" alt="" />
         <h2>Franki Biswas</h2>
         <a href="https://github.com/fpena213">
-          <img
-            class="teamlogo"
-            src="./assets/github-mark-white.png"
-            alt=""
-          />
+          <img class="teamlogo" src="./assets/github-mark-white.png" alt="" />
         </a>
         <a href="https://www.linkedin.com/in/franki-biswas/">
           <img class="teamlogo" src="./assets/linkedin.svg" alt="" />
@@ -74,11 +62,7 @@
         <img class="profile" src="./assets/mb.jpeg" alt="" />
         <h2>Michael Buenrostro</h2>
         <a href="https://github.com/mbuenrostro21">
-          <img
-            class="teamlogo"
-            src="./assets/github-mark-white.png"
-            alt=""
-          />
+          <img class="teamlogo" src="./assets/github-mark-white.png" alt="" />
         </a>
         <a href="https://www.linkedin.com/in/michael-buenrostro/">
           <img class="teamlogo" src="./assets/linkedin.svg" alt="" />
@@ -88,11 +72,7 @@
         <img class="profile" src="./assets/mc.jpg" alt="" />
         <h2>Michelle Conroy</h2>
         <a href="https://github.com/missmshel">
-          <img
-            class="teamlogo"
-            src="./assets/github-mark-white.png"
-            alt=""
-          />
+          <img class="teamlogo" src="./assets/github-mark-white.png" alt="" />
         </a>
         <a href="https://www.linkedin.com/in/michelleaconroy/">
           <img class="teamlogo" src="./assets/linkedin.svg" alt="" />
@@ -102,11 +82,7 @@
         <img class="profile" src="./assets/tb.jpg" alt="" />
         <h2>Tristan Bott</h2>
         <a href="https://github.com/trisbt">
-          <img
-            class="teamlogo"
-            src="./assets/github-mark-white.png"
-            alt=""
-          />
+          <img class="teamlogo" src="./assets/github-mark-white.png" alt="" />
         </a>
         <a href="https://www.linkedin.com/in/tristan-bott/">
           <img class="teamlogo" src="./assets/linkedin.svg" alt="" />
@@ -119,12 +95,13 @@
 <style>
   body {
     /* padding-top: 70px; */
-    /* background: linear-gradient(to bottom, #17152c, #302b63, #7972ab); */
+    background: linear-gradient(to bottom, #17152c, #302b63, #7972ab);
     background: linear-gradient(45deg, #020108, #302b63, rgb(92, 151, 167));
     background-size: 400% 400%;
     animation: gradientAnimation 10s ease infinite; /* Change the animation duration as needed */
     margin: 0;
     padding: 0;
+    width: 100%;
   }
   @keyframes gradientAnimation {
     0% {
@@ -142,7 +119,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding-top: 70px;
+    padding-top: 80px;
     min-height: 100vh;
     font-family: "Jost", sans-serif;
     margin-bottom: 100px;
@@ -151,7 +128,7 @@
     margin-bottom: 100px;
   }
   .right-container {
-    width: 370px;
+    width: 400px;
     display: flex;
     justify-content: end;
   }
@@ -205,7 +182,8 @@
     line-height: 1.8;
   }
   .logobody {
-    filter: grayscale(10%);
+    /* filter: grayscale(10%); */
+    z-index: 0;
   }
   @media (max-width: 950px) {
     .main-container {
@@ -213,6 +191,15 @@
       margin-bottom: 50%;
     }
     .cardcontainer {
+    }
+  }
+  @media (max-width: 550px) {
+    .right-container {
+      flex-direction: column; /* Set the flex-direction to column for smaller screens */
+      margin-bottom: 90%;
+    }
+    .cardcontainer {
+      justify-content: center;
     }
   }
 </style>
