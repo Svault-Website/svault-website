@@ -1,5 +1,5 @@
 <script>
-    import "../app.css";
+    // import "../app.css";
 </script>
 
 <nav class="navbar">
@@ -26,16 +26,10 @@
 <slot />
 
 <style>
-    /* .navbar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      background-color: aqua;
-    } */
+
 
     nav {
-        /* width: 100%; */
-        position: fixed;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
