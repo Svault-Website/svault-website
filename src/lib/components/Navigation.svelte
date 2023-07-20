@@ -1,18 +1,19 @@
-<nav class="navbar">
-  <div class="logo-container">
-    <p>Logo Here</p>
+<!-- <nav class="navbar"> -->
+  <!-- <div class="logo-container"> -->
+    <!-- <p>Logo Here</p> -->
+    <!-- <img src="src/lib/assets/svault-logo-trim.png" alt="" class="logohome">
   </div>
   <div class="links-container">
-    <ul>
-      <li>Home</li>
-      <li>Docs</li>
-      <li>Team</li>
-      <li>Github</li>
+    <ul> -->
+      <!-- <li>Home</li> -->
+      <!-- <li><a href="https://svault.mintlify.app/">Docs</a></li>
+      <li><a href="">Team</a></li>
+      <li><a href="https://github.com/oslabs-beta/Svault">Github</a></li>
     </ul>
-  </div>
-</nav>
+  </div> -->
+<!-- </nav> -->
 
-<style>
+<!-- <style>
   .navbar {
     display: flex;
     justify-content: space-between;
@@ -20,7 +21,7 @@
     background-color: aqua;
   }
   .logo-container {
-    background-color: bisque;
+    background-color: rgb(138, 138, 138);
   }
   .links-container {
     background-color: rgb(62, 107, 119);
@@ -31,4 +32,4 @@
   li {
     display: inline-block;
   }
-</style>
+</style> -->
