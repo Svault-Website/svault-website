@@ -18,6 +18,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-vercel": "^3.0.2",
 		"clipboard-copy": "^4.0.1"
 	}
 }
