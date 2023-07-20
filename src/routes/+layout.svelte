@@ -36,7 +36,7 @@
     background-color: transparent;
     color: aliceblue;
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     align-items: center;
     padding: 10px;
     }
