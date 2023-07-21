@@ -2,7 +2,7 @@
     // import "../app.css";
 </script>
 
-<nav class="navbar">
+<nav class="navbar" id="navbar">
     <div class="logo-container">
         <!-- <p>Logo Here</p> -->
         <a href="/">
@@ -22,11 +22,16 @@
 <slot />
 
 <style>
+    #navbar {
+        padding: 0;
+        margin: 0;
+    }
+
     nav {
         position: sticky;
-        top: 0;
-        left: 0;
-        width: 101%;
+        /* top: 0;
+        left: 0; */
+        width: 103%;
         background-color: rgb(245, 245, 245, 0.25);
         color: aliceblue;
         display: flex;
@@ -45,7 +50,7 @@
         display: flex;
         justify-content: space-evenly;
         /* padding-right: 50px; */
-        width: 40vw
+        width: 40vw;
         /* background-color: rgb(62, 107, 119); */
     }
     .links-container ul {

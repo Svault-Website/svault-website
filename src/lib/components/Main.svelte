@@ -4,16 +4,16 @@
   <div class="main-container">
     <div class="left-container">
       <div class="caption">
-      <figure>
-        <img src="./assets/form-demo.png" alt="" />
-        <figcaption>
-          *This is an example of a pre-Svault login. Check out our&nbsp<a
-          href="https://svault.mintlify.app/"
-        >
-        docs
-        </a>&nbspto get this form working!
-        </figcaption>
-      </figure>
+        <figure>
+          <img src="./assets/form-demo.png" alt="" />
+          <figcaption>
+            *This is an example of a pre-Svault login. Check out our&nbsp<a
+              href="https://svault.mintlify.app/"
+            >
+              docs
+            </a>&nbspto get this form working!
+          </figcaption>
+        </figure>
       </div>
       <!-- <div class="auth-splash">
         <div class="native-container">
@@ -43,7 +43,6 @@
           authentication into your SvelteKit application. Svault supports both
           native username/password authentication as well as OAuth.
         </h3>
-        <br>
       </div>
     </div>
   </div>
@@ -112,7 +111,7 @@
     background-size: 400% 400%;
     animation: gradientAnimation 10s ease infinite; /* Change the animation duration as needed */
     margin: 0;
-    padding: 0;
+    padding: 5px;
     width: 100%;
   }
   @keyframes gradientAnimation {
@@ -143,6 +142,7 @@
     width: 400px;
     display: flex;
     justify-content: end;
+    align-items: center;
   }
   #team {
     width: 100%;
