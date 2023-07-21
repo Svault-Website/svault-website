@@ -4,6 +4,7 @@
   <div class="main-container">
     <div class="left-container">
       <img src="./assets/form-demo.png" alt="" />
+      <div>
       <caption
         >*This is an example of a pre-Svault login. Check out our&nbsp<a
           href="https://svault.mintlify.app/"
@@ -11,6 +12,7 @@
         docs
         </a>&nbspto get this form working!</caption
       >
+      </div>
       <!-- <div class="auth-splash">
         <div class="native-container">
           <div class="input-container">
@@ -192,7 +194,7 @@
     /* filter: grayscale(10%); */
     z-index: 0;
   }
-  caption {
+  div caption {
     display: flex;
     justify-content: center;
     color: white;
