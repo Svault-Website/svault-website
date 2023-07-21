@@ -29,9 +29,10 @@
 
     nav {
         position: sticky;
-        /* top: 0;
-        left: 0; */
-        width: 103%;
+        top: 0;
+        left: 0;
+        right:0;
+        width: 100%;
         background-color: rgb(245, 245, 245, 0.25);
         color: aliceblue;
         display: flex;

@@ -111,7 +111,7 @@
     background-size: 400% 400%;
     animation: gradientAnimation 10s ease infinite; /* Change the animation duration as needed */
     margin: 0;
-    padding: 5px;
+    /* padding: 5px; */
     width: 100%;
   }
   @keyframes gradientAnimation {
