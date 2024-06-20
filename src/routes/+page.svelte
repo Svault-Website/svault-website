@@ -6,3 +6,4 @@
 
 <Navigation />
 <Main />
+<Team />

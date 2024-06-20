@@ -5,7 +5,9 @@ export default {
     extend: {
       screens:
       {
-        'xs': '800'
+        'iphone': {'min': '360px', 'max': '460px'},
+        'tablet': {'min': '461px', 'max': '815px'},
+        'medium': {'min': '816px', 'max': '1222px'}
       }
     },
   },
