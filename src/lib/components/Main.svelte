@@ -1,15 +1,19 @@
 <script></script>
 
-<body>
-  <div class="bg-[#22252B] h-full grid grid-cols-7 grid-rows-6">
-    <div class="col-start-3 col-span-3">
-      <img class="pt-32" src="src/static/assets/svault-logo-trim.png" alt="" />
+<body class="w-screen">
+  <div class="bg-[#22252B] h-screen w-screen grid grid-cols-7 grid-rows-6">
+    <div
+      class="flex justify-center items-center col-start-3 col-span-3 row-start-2"
+    >
+      <img class="h-32" src="src/static/assets/svault-logo-trim.png" alt="" />
     </div>
-    <div class=" col-start-3 row-start-2">
-      <h1>Authentication for SvelteKit</h1>
+    <div class="flex justify-center col-start-2 col-span-5 row-start-3">
+      <h1 class="pt-5 text-base sm:text-6xl text-white">
+        Authentication for SvelteKit
+      </h1>
     </div>
     <!-- <br> -->
-    <div class="row-start-3 col-start-3">
+    <div class="row-start-4 col-start-4">
       <h3>
         Svault is an authentication library for easily deploying authentication
         into your SvelteKit application. Svault supports both native

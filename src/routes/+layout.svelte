@@ -3,7 +3,7 @@
 </script>
 
 <nav
-  class="flex justify-between bg-[#d9d9d9] border-2 border-solid border-b-neutral-400"
+  class="flex justify-between w-full bg-[#d9d9d9] border-2 border-solid border-b-neutral-400"
 >
   <div class="w-32 h-24 ml-5 content-center">
     <!-- <p>Logo Here</p> -->
@@ -15,21 +15,21 @@
       />
     </a>
   </div>
-  <div class="w-1/4 px-5 content-center">
+  <div class="content-center">
     <ul class="flex justify-evenly">
       <!-- <li>Home</li> -->
       <li
-        class="flex justify-center items-center w-28 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-1"
+        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-3"
       >
         <a href="https://svault.mintlify.app/">Docs</a>
       </li>
       <li
-        class="flex justify-center items-center w-28 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-1"
+        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-3"
       >
         <a href="#team">Team</a>
       </li>
       <li
-        class="flex justify-center items-center w-28 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold"
+        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold"
       >
         <a href="https://github.com/oslabs-beta/Svault">Github</a>
       </li>
