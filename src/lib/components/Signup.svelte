@@ -28,14 +28,14 @@
     class="flex flex-col items-center justify-center col-start-6 col-span-3 row-start-4 row-span-7 iphone:col-start-2 iphone:row-start-10 iphone:row-span-2 iphone:col-span-7"
   >
     <h3
-      class="text-5xl medium:text-4xl iphone:text-sm tablet:text-2xl text-center pb-7"
+      class="text-[40px] medium:text-4xl iphone:text-sm tablet:text-2xl text-center pb-7"
     >
       Svault <strong>streamlines authorization and authentication</strong> for developers
       without the headache of navigating the intricacies of authentication setup
       in Svelte.
     </h3>
     <h3
-      class="text-5xl medium:text-4xl iphone:text-sm tablet:text-2xl text-center"
+      class="text-[40px] medium:text-4xl iphone:text-sm tablet:text-2xl text-center"
     >
       Our library makes it easier to have your forms up and running in minutes
       using <strong>only a few lines of code.</strong>
