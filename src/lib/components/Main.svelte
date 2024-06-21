@@ -14,9 +14,9 @@
 </script>
 
 <body class="w-screen">
-  <div class="bg-[#22252B] h-screen w-screen grid grid-cols-9 grid-rows-9">
+  <div class="bg-[#22252B] h-screen w-screen grid grid-cols-9 grid-rows-12">
     <div
-      class="flex justify-center items-center col-start-4 col-span-3 row-start-2 iphone:col-start-3 iphone:col-span-5"
+      class="flex justify-center items-center col-start-4 col-span-3 row-start-3 row-span-2 iphone:col-start-3 iphone:col-span-5"
     >
       <img
         class="h-32 iphone:h-20"
@@ -24,16 +24,18 @@
         alt=""
       />
     </div>
-    <div class="flex justify-center col-start-2 col-span-7 row-start-3">
+    <div
+      class="flex justify-center items-start col-start-2 col-span-7 row-start-5"
+    >
       <h1
-        class="pt-3 iphone:pt-5 text-[50px] iphone:text-[22px] tablet:text-[42px] text-white font-bold"
+        class="text-[50px] iphone:text-[22px] tablet:text-[42px] text-white font-bold"
       >
         Authentication for SvelteKit
       </h1>
     </div>
     <!-- <br> -->
     <div
-      class="flex justify-center items-center row-start-4 col-start-3 col-span-5 row-span-2 border-4 border-solid border-[#C53000] rounded-full iphone:col-start-2 iphone:col-span-7"
+      class="flex justify-center items-center mt-3 row-start-6 col-start-3 col-span-5 row-span-3 border-4 border-solid border-[#C53000] rounded-full iphone:col-start-2 iphone:col-span-7"
     >
       <h3
         class="text-center px-7 iphone:text-sm text-white text-4xl medium:text-2xl tablet:text-xl"
@@ -44,7 +46,7 @@
       </h3>
     </div>
     <div
-      class="flex items-center justify-center row-start-6 col-start-4 col-span-3"
+      class="flex items-center justify-center pt-7 row-start-9 col-start-4 col-span-3"
     >
       <span
         class="bg-[#c53100ae] flex gap-5 items-center justify-between py-3 px-5 rounded-full"

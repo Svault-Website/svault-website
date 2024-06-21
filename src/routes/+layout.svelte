@@ -3,9 +3,9 @@
 </script>
 
 <nav
-  class="flex justify-between w-full bg-[#d9d9d9] border-2 border-solid border-b-neutral-400"
+  class="flex justify-between fixed w-full bg-[#d9d9d9] border-2 border-solid border-b-neutral-400"
 >
-  <div class="w-32 h-24 ml-5 content-center">
+  <div class="w-32 h-24 ml-5 iphone:ml-1 content-center">
     <!-- <p>Logo Here</p> -->
     <a href="/">
       <img
