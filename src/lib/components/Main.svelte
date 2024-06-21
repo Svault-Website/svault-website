@@ -19,7 +19,7 @@
       class="flex justify-center items-center col-start-4 col-span-3 row-start-3 row-span-2 iphone:col-start-3 iphone:col-span-5"
     >
       <img
-        class="h-32 iphone:h-20"
+        class="h-32 iphone:h-20 tablet:h-24"
         src="src/static/assets/svault-logo-trim.png"
         alt=""
       />
@@ -42,7 +42,7 @@
       >
         Svault is an authentication library for easily deploying authentication
         into your SvelteKit application. Svault supports both native
-        username/password authentication as well as OAuth.
+        username/password authentication as well as OAuth 2.0.
       </h3>
     </div>
     <div
