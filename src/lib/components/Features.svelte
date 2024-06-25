@@ -15,26 +15,26 @@
     class="col-start-1 col-span-3 row-start-4 row-span-7 iphone:row-start-2 iphone:col-start-1 iphone:col-span-11 iphone:row-span-2 tablet:row-start-2 tablet:col-start-1 tablet:col-span-11 tablet:row-span-2"
   >
     <h2
-      class="text-[40px] iphone:text-[18px] tablet:text-[32px] text-[#C53000] pb-10 iphone:p-1 tablet:p-1 text-center font-bold"
+      class="text-[40px] iphone:text-[18px] tablet:text-[32px] medium:text-[32px] text-[#C53000] pb-10 iphone:p-1 tablet:p-1 text-center font-bold"
     >
       OAuth 2.0
     </h2>
     <p
-      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1"
+      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1 medium:text-xl medium:p-5"
     >
       Svault comes with a variety of OAuth options, <strong
         ><em>including Google, Discord, and GitHub</em></strong
       >.
     </p>
     <p
-      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1"
+      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1 medium:text-xl medium:p-5"
     >
       Designed to make authentication as <strong
         ><em>quick and painless</em></strong
       > as possible, Svault walks the developer through the entire process.
     </p>
     <p
-      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1"
+      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1 medium:text-xl medium:p-5"
     >
       The <strong><em>plug-and-play</em></strong> nature of Svault makes it so you
       can use one, some, or all available OAuth features.
@@ -52,12 +52,12 @@
     class="col-start-5 col-span-3 row-start-4 row-span-7 iphone:row-start-6 iphone:col-start-1 iphone:col-span-11 iphone:row-span-3 tablet:row-start-6 tablet:col-start-1 tablet:col-span-11 tablet:row-span-2"
   >
     <h2
-      class="text-[40px] iphone:text-[18px] tablet:text-[32px] text-[#C53000] text-center font-bold pb-10 iphone:py-1 tablet:py-1"
+      class="text-[40px] iphone:text-[18px] tablet:text-[32px] medium:text-[32px] text-[#C53000] text-center font-bold pb-10 iphone:py-1 tablet:py-1"
     >
       Cookies
     </h2>
     <p
-      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1"
+      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1 medium:text-xl medium:p-5"
     >
       Cookie management is <strong
         ><em
@@ -66,13 +66,13 @@
       > and appropriately label the cookie.
     </p>
     <p
-      class="text-center text-white text-2xl iphone:text-[10px] p-7 tablet:text-xl iphone:p-1 tablet:p-1"
+      class="text-center text-white text-2xl iphone:text-[10px] p-7 tablet:text-xl iphone:p-1 tablet:p-1 medium:text-xl medium:p-5"
     >
       Management <strong><em>works across web browsers</em></strong> without fear
       of bugs.
     </p>
     <p
-      class="text-center text-white text-2xl iphone:text-[10px] p-7 tablet:text-xl iphone:p-0 tablet:p-1"
+      class="text-center text-white text-2xl iphone:text-[10px] p-7 tablet:text-xl iphone:p-0 tablet:p-1 medium:text-xl medium:p-5"
     >
       A page accessibility feature ensures only <strong
         ><em>authenticated users can access secure pages</em></strong
@@ -92,12 +92,12 @@
     class="col-start-9 col-span-3 row-start-4 row-span-7 iphone:row-start-10 iphone:col-start-1 iphone:col-span-11 iphone:row-span-3 tablet:row-start-10 tablet:col-start-1 tablet:col-span-11 tablet:row-span-3"
   >
     <h2
-      class="text-[40px] iphone:text-[18px] tablet:text-[32px] text-[#C53000] text-center font-bold pb-10 iphone:py-1 tablet:py-1"
+      class="text-[40px] iphone:text-[18px] tablet:text-[32px] medium:text-[32px] text-[#C53000] text-center font-bold pb-10 iphone:py-1 tablet:py-1"
     >
       Password Encryption
     </h2>
     <p
-      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1"
+      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1 medium:text-xl medium:p-5"
     >
       Another key feature is the <strong
         ><em>built-in hashing and salting</em></strong
@@ -105,7 +105,7 @@
     </p>
 
     <p
-      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1"
+      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1 medium:text-xl medium:p-5"
     >
       Upon user registration, hashing and salting deploys and has the pipeline
       created to <strong
@@ -113,7 +113,7 @@
       >and your database.
     </p>
     <p
-      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1"
+      class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1 medium:text-xl medium:p-5"
     >
       It wouldn’t be much of a S(<strong><em>vault</em> </strong>)if the
       password is taped to the side.
