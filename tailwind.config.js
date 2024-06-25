@@ -7,7 +7,7 @@ export default {
       {
         'iphone': {'min': '360px', 'max': '460px'},
         'tablet': {'min': '461px', 'max': '820px'},
-        'medium': {'min': '816px', 'max': '1222px'}
+        'medium': {'min': '821px', 'max': '1222px'}
       }
     },
   },
