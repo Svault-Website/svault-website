@@ -28,7 +28,7 @@
       class="flex justify-center items-start col-start-2 col-span-7 row-start-5"
     >
       <h1
-        class="text-[50px] iphone:text-[22px] tablet:text-[42px] text-white font-bold"
+        class="text-[50px] iphone:text-[19px] tablet:text-[38px] medium:text-[38px] text-white font-bold font-orb"
       >
         Authentication for SvelteKit
       </h1>
@@ -205,4 +205,7 @@ h3 {
 } -->
 
 <style>
+  h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
 </style>

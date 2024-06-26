@@ -6,7 +6,7 @@
     class="flex justify-center col-start-3 col-span-7 row-start-2 iphone:row-start-1 iphone:pt-5 tablet:row-start-1 tablet:pt-5"
   >
     <h1
-      class="text-[50px] iphone:text-[22px] tablet:text-[42px] text-white font-bold"
+      class="text-[50px] iphone:text-[22px] tablet:text-[38px] text-white font-bold font-orb"
     >
       Features
     </h1>
@@ -15,7 +15,7 @@
     class="col-start-1 col-span-3 row-start-4 row-span-7 iphone:row-start-2 iphone:col-start-1 iphone:col-span-11 iphone:row-span-2 tablet:row-start-2 tablet:col-start-1 tablet:col-span-11 tablet:row-span-2"
   >
     <h2
-      class="text-[40px] iphone:text-[18px] tablet:text-[32px] medium:text-[32px] text-[#C53000] pb-10 iphone:p-1 tablet:p-1 text-center font-bold"
+      class="text-[40px] iphone:text-[18px] tablet:text-[32px] medium:text-[32px] text-[#C53000] pb-10 iphone:p-1 tablet:p-1 text-center font-bold font-orb"
     >
       OAuth 2.0
     </h2>
@@ -52,7 +52,7 @@
     class="col-start-5 col-span-3 row-start-4 row-span-7 iphone:row-start-6 iphone:col-start-1 iphone:col-span-11 iphone:row-span-3 tablet:row-start-6 tablet:col-start-1 tablet:col-span-11 tablet:row-span-2"
   >
     <h2
-      class="text-[40px] iphone:text-[18px] tablet:text-[32px] medium:text-[32px] text-[#C53000] text-center font-bold pb-10 iphone:py-1 tablet:py-1"
+      class="text-[40px] iphone:text-[18px] tablet:text-[32px] medium:text-[32px] text-[#C53000] text-center font-bold pb-10 iphone:py-1 tablet:py-1 font-orb"
     >
       Cookies
     </h2>
@@ -92,7 +92,7 @@
     class="col-start-9 col-span-3 row-start-4 row-span-7 iphone:row-start-10 iphone:col-start-1 iphone:col-span-11 iphone:row-span-3 tablet:row-start-10 tablet:col-start-1 tablet:col-span-11 tablet:row-span-3"
   >
     <h2
-      class="text-[40px] iphone:text-[18px] tablet:text-[32px] medium:text-[32px] text-[#C53000] text-center font-bold pb-10 iphone:py-1 tablet:py-1"
+      class="text-[40px] iphone:text-[18px] tablet:text-[32px] medium:text-[32px] text-[#C53000] text-center font-bold pb-10 iphone:py-1 tablet:py-1 font-orb"
     >
       Password Encryption
     </h2>

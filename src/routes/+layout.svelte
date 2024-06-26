@@ -3,7 +3,7 @@
 </script>
 
 <nav
-  class="flex justify-between fixed w-full bg-[#d9d9d9] border-2 border-solid border-b-neutral-400 iphone:h-16"
+  class="flex justify-between fixed w-full bg-[#d9d9d9] border-2 border-solid border-b-neutral-400 iphone:h-16 shadow-2xl"
 >
   <div class="w-32 h-24 ml-5 iphone:ml-1 iphone:h-14 content-center">
     <!-- <p>Logo Here</p> -->
@@ -19,17 +19,17 @@
     <ul class="flex justify-evenly">
       <!-- <li>Home</li> -->
       <li
-        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-3 iphone:w-16 iphone:text-base"
+        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-3 iphone:w-16 iphone:text-base hover:shadow-lg hover:text-[#d9d9d9]"
       >
         <a href="https://svault.mintlify.app/">Docs</a>
       </li>
       <li
-        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-3 iphone:w-16 iphone:text-base"
+        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-3 iphone:w-16 iphone:text-base hover:shadow-lg hover:text-[#d9d9d9]"
       >
         <a href="#team">Team</a>
       </li>
       <li
-        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold iphone:w-16 iphone:text-base"
+        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold iphone:w-16 iphone:text-base hover:shadow-lg hover:text-[#d9d9d9]"
       >
         <a href="https://github.com/oslabs-beta/Svault">Github</a>
       </li>
@@ -102,4 +102,7 @@ a {
     align-items: center;
     background-color: aqua;
     } */
+  li {
+    font-family: "Orbitron", sans-serif;
+  }
 </style>
