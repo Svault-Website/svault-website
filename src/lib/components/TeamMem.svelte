@@ -9,13 +9,13 @@
     class="flex justify-center align-items row-start-2 col-start-3 col-span-6 iphone:row-start-1 iphone:col-start-1 iphone:col-span-10 iphone:p-5 tablet:row-start-1 tablet:col-start-1 tablet:col-span-12 tablet:p-5"
   >
     <h1
-      class="text-[50px] text-center iphone:text-[24px] tablet:text-[28px] font-bold font-orb"
+      class="text-[50px] text-center iphone:text-[24px] tablet:text-[28px] font-bold font-orb text-shadow-lg"
     >
       The Svault Team
     </h1>
   </div>
   <div
-    class="flex flex-col items-center text-center justify-center bg-[#C53000] col-start-1 col-span-2 row-start-4 row-span-6 mx-5 border-solid border-[#C53000] rounded-lg iphone:col-start-1 iphone:col-span-5 iphone:row-start-2 iphone:row-span-4 iphone:m-5 tablet:col-start-1 tablet:col-span-4 tablet:row-start-2 tablet:row-span-5 tablet:m-5 medium:mx-2"
+    class="flex flex-col items-center text-center justify-center shadow-xl bg-[#C53000] col-start-1 col-span-2 row-start-4 row-span-6 mx-5 border-solid border-[#C53000] rounded-lg iphone:col-start-1 iphone:col-span-5 iphone:row-start-2 iphone:row-span-4 iphone:m-5 tablet:col-start-1 tablet:col-span-4 tablet:row-start-2 tablet:row-span-5 tablet:m-5 medium:mx-2"
   >
     <img
       class="h-72 w-72 p-2 iphone:h-36 iphone:w-36 tablet:h-56 tablet:w-54 tablet:p-5 medium:h-56 medium:w-56 medium:px-5"
@@ -23,7 +23,7 @@
       alt=""
     />
     <h2
-      class="text-3xl medium:text-2xl iphone:text-sm tablet:text-2xl text-center text-white font-bold p-2"
+      class="text-3xl medium:text-2xl iphone:text-sm tablet:text-2xl text-center text-white font-bold p-2 text-shadow-lg"
     >
       Daniel Park
     </h2>
@@ -45,7 +45,7 @@
     </div>
   </div>
   <div
-    class="flex flex-col items-center text-center justify-center bg-[#C53000] mx-5 border-solid border-[#C53000] rounded-lg col-start-3 col-span-2 row-start-4 row-span-6 iphone:col-start-6 iphone:col-span-5 iphone:row-start-2 iphone:row-span-4 iphone:m-5 tablet:col-start-5 tablet:col-span-4 tablet:row-start-2 tablet:row-span-5 tablet:m-5 medium:mx-2"
+    class="flex flex-col items-center text-center justify-center shadow-xl bg-[#C53000] mx-5 border-solid border-[#C53000] rounded-lg col-start-3 col-span-2 row-start-4 row-span-6 iphone:col-start-6 iphone:col-span-5 iphone:row-start-2 iphone:row-span-4 iphone:m-5 tablet:col-start-5 tablet:col-span-4 tablet:row-start-2 tablet:row-span-5 tablet:m-5 medium:mx-2"
   >
     <img
       class="h-72 w-72 p-2 iphone:h-36 iphone:w-36 tablet:h-56 tablet:w-54 tablet:p-5 medium:h-56 medium:w-56 medium:px-5"
@@ -53,7 +53,7 @@
       alt=""
     />
     <h2
-      class="text-3xl medium:text-2xl iphone:text-sm tablet:text-2xl text-center text-white font-bold p-2"
+      class="text-3xl medium:text-2xl iphone:text-sm tablet:text-2xl text-center text-white font-bold p-2 text-shadow-lg"
     >
       Franki Biswas
     </h2>
@@ -75,7 +75,7 @@
     </div>
   </div>
   <div
-    class="flex flex-col items-center text-center justify-center bg-[#C53000] mx-5 border-solid border-[#C53000] rounded-lg col-start-5 col-span-2 row-start-4 row-span-6 iphone:col-start-1 iphone:col-span-5 iphone:row-start-6 iphone:row-span-4 iphone:m-5 tablet:col-start-9 tablet:col-span-4 tablet:row-start-2 tablet:row-span-5 tablet:m-5 medium:mx-2"
+    class="flex flex-col items-center text-center justify-center shadow-xl bg-[#C53000] mx-5 border-solid border-[#C53000] rounded-lg col-start-5 col-span-2 row-start-4 row-span-6 iphone:col-start-1 iphone:col-span-5 iphone:row-start-6 iphone:row-span-4 iphone:m-5 tablet:col-start-9 tablet:col-span-4 tablet:row-start-2 tablet:row-span-5 tablet:m-5 medium:mx-2"
   >
     <img
       class="h-72 w-72 p-2 iphone:h-[140px] iphone:w-36 tablet:h-56 tablet:w-56 tablet:p-5 medium:h-56 medium:w-56 medium:px-5"
@@ -83,7 +83,7 @@
       alt=""
     />
     <h2
-      class="text-3xl medium:text-2xl iphone:text-[12px] tablet:text-2xl text-center text-white font-bold p-2"
+      class="text-3xl medium:text-2xl iphone:text-[12px] tablet:text-2xl text-center text-white font-bold p-2 text-shadow-lg"
     >
       Michael Buenrostro
     </h2>
@@ -105,7 +105,7 @@
     </div>
   </div>
   <div
-    class="flex flex-col items-center text-center justify-center bg-[#C53000] mx-5 border-solid border-[#C53000] rounded-lg col-start-7 col-span-2 row-start-4 row-span-6 iphone:col-start-6 iphone:col-span-5 iphone:row-start-6 iphone:row-span-4 iphone:m-5 tablet:col-start-3 tablet:col-span-4 tablet:row-start-7 tablet:row-span-5 tablet:m-5 medium:mx-2"
+    class="flex flex-col items-center text-center justify-center shadow-xl bg-[#C53000] mx-5 border-solid border-[#C53000] rounded-lg col-start-7 col-span-2 row-start-4 row-span-6 iphone:col-start-6 iphone:col-span-5 iphone:row-start-6 iphone:row-span-4 iphone:m-5 tablet:col-start-3 tablet:col-span-4 tablet:row-start-7 tablet:row-span-5 tablet:m-5 medium:mx-2"
   >
     <img
       class="h-72 w-72 p-2 iphone:h-36 iphone:w-36 tablet:h-56 tablet:w-54 tablet:p-5 medium:h-56 medium:w-56 medium:px-5"
@@ -113,7 +113,7 @@
       alt=""
     />
     <h2
-      class="text-3xl medium:text-2xl iphone:text-sm tablet:text-2xl text-center text-white font-bold p-2"
+      class="text-3xl medium:text-2xl iphone:text-sm tablet:text-2xl text-center text-white font-bold p-2 text-shadow-lg"
     >
       Michelle Conroy
     </h2>
@@ -135,15 +135,15 @@
     </div>
   </div>
   <div
-    class="flex flex-col items-center text-center justify-center bg-[#C53000] mx-5 border-solid border-[#C53000] rounded-lg col-start-9 col-span-2 row-start-4 row-span-6 iphone:col-start-1 iphone:col-span-10 iphone:row-start-10 iphone:row-span-2 iphone:my-1 iphone:mx-5 iphone:flex-row iphone:justify-around tablet:col-start-7 tablet:col-span-4 tablet:row-start-7 tablet:row-span-5 tablet:m-5 medium:mx-2"
+    class="flex flex-col items-center text-center justify-center shadow-xl bg-[#C53000] mx-5 border-solid border-[#C53000] rounded-lg col-start-9 col-span-2 row-start-4 row-span-6 iphone:col-start-1 iphone:col-span-10 iphone:row-start-10 iphone:row-span-2 iphone:my-1 iphone:mx-5 iphone:flex-row iphone:justify-around tablet:col-start-7 tablet:col-span-4 tablet:row-start-7 tablet:row-span-5 tablet:m-5 medium:mx-2"
   >
     <img
-      class="h-72 w-72 p-2 iphone:h-32 iphone:w-32 tablet:h-56 tablet:w-54 tablet:p-5 medium:h-56 medium:w-56 medium:px-5"
+      class="h-72 w-72 p-2 iphone:h-32 iphone:w-32 tablet:h-56 tablet:w-54 tablet:p-5 medium:h-56 medium:w-56 medium:px-5 text-shadow-lg"
       src="src/static/assets/tb.jpg"
       alt=""
     />
     <h2
-      class="text-3xl medium:text-2xl iphone:text-sm tablet:text-2xl text-center text-white font-bold p-2"
+      class="text-3xl medium:text-2xl iphone:text-sm tablet:text-2xl text-center text-white font-bold p-2 text-shadow-lg"
     >
       Tristan Bott
     </h2>

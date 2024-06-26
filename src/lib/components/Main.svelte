@@ -28,17 +28,17 @@
       class="flex justify-center items-start col-start-2 col-span-7 row-start-5"
     >
       <h1
-        class="text-[50px] iphone:text-[19px] tablet:text-[38px] medium:text-[38px] text-white font-bold font-orb"
+        class="text-[50px] iphone:text-[19px] tablet:text-[38px] medium:text-[38px] text-white font-bold font-orb text-shadow-xl"
       >
         Authentication for SvelteKit
       </h1>
     </div>
     <!-- <br> -->
     <div
-      class="flex justify-center items-center mt-3 row-start-6 col-start-3 col-span-5 row-span-3 border-4 border-solid border-[#C53000] rounded-full iphone:col-start-2 iphone:col-span-7"
+      class="flex justify-center items-center mt-3 row-start-6 col-start-3 col-span-5 row-span-3 border-4 border-solid border-[#C53000] rounded-full iphone:col-start-2 iphone:col-span-7 shadow-inner"
     >
       <h3
-        class="text-center px-7 iphone:text-sm text-white text-4xl medium:text-2xl tablet:text-xl"
+        class="text-center px-7 iphone:text-sm text-white text-4xl medium:text-2xl tablet:text-xl text-shadow-xl"
       >
         Svault is an authentication library for easily deploying authentication
         into your SvelteKit application. Svault supports both native

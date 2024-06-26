@@ -19,17 +19,17 @@
     <ul class="flex justify-evenly">
       <!-- <li>Home</li> -->
       <li
-        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-3 iphone:w-16 iphone:text-base hover:shadow-lg hover:text-[#d9d9d9]"
+        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-3 iphone:w-16 iphone:text-base hover:shadow-lg hover:text-shadow-lg"
       >
         <a href="https://svault.mintlify.app/">Docs</a>
       </li>
       <li
-        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-3 iphone:w-16 iphone:text-base hover:shadow-lg hover:text-[#d9d9d9]"
+        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold mr-3 iphone:w-16 iphone:text-base hover:shadow-lg hover:text-shadow-lg"
       >
         <a href="#team">Team</a>
       </li>
       <li
-        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold iphone:w-16 iphone:text-base hover:shadow-lg hover:text-[#d9d9d9]"
+        class="flex justify-center items-center w-20 h-12 border-2 border-solid border-[#C53000] rounded-3xl bg-[#C53000] text-lg text-white font-bold iphone:w-16 iphone:text-base hover:shadow-lg hover:text-shadow-lg"
       >
         <a href="https://github.com/oslabs-beta/Svault">Github</a>
       </li>

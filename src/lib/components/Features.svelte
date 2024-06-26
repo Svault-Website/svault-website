@@ -115,7 +115,7 @@
     <p
       class="text-center text-white text-2xl iphone:text-[10px] tablet:text-xl p-7 iphone:p-1 tablet:p-1 medium:text-xl medium:p-5"
     >
-      It wouldn’t be much of a S(<strong><em>vault</em> </strong>)if the
+      It wouldn’t be much of a S(<strong><em>vault</em></strong>) if the
       password is taped to the side.
     </p>
   </div>
